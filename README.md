@@ -51,4 +51,4 @@ classDiagram
     Produto <|-- Livro
     Produto <|-- Mangas
     EstanteController ..|> EstanteRepository
-    EstanteController --> Produto : contém
+    
