@@ -1,5 +1,8 @@
 package estanteWeb;
 
+import estanteWeb.model.Livro;
+import estanteWeb.model.Manga;
+
 import java.util.Scanner;
 
 public class Menu {
@@ -10,6 +13,13 @@ public class Menu {
         String autor, titulo, genero, dataPublicacao, artista,distribuidora,emprestadoEm,devolverEm;
         float valor;
         boolean emprestavel,capaDura;
+
+        Livro livro1 = new Livro(1, 100,"28/05/2020","Matheus Queiroz","O livro","aventura","Queiroz Distri",202,true,true);
+        Manga manga1 = new Manga(2, 30,"20/02/2024","Naomi","Isekai World","Ação","panini",40, "Naofumi");
+
+        livro1.visualizar();
+        manga1.visualizar();
+
 
         while (true){
             System.out.println("\n*****************************************************");
