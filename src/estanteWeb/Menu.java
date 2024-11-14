@@ -194,6 +194,7 @@ public class Menu {
                     if(produto != null){
                         try {
                             estante.emprestarProduto(produto);
+
                         }catch (Exception e){
                             System.out.println(e.getMessage());
                         }

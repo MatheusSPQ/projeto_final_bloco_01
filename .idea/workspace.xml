@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ebb3c3d-bd7f-40cd-8d29-72d91712484e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estanteWeb/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estanteWeb/Menu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estanteWeb/controller/EstanteController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estanteWeb/controller/EstanteController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estanteWeb/model/Livro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estanteWeb/model/Livro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estanteWeb/model/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estanteWeb/model/Produto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estanteWeb/repository/EstanteRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estanteWeb/repository/EstanteRepository.java" afterDir="false" />
-    </list>
+    <list default="true" id="9ebb3c3d-bd7f-40cd-8d29-72d91712484e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,21 +21,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "MatheusSPQ"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;MatheusSPQ&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/MatheusSPQ/projeto_final_bloco_01.git",
-    "accountId": "7516968c-6ca9-40d1-9205-85a50db96175"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/MatheusSPQ/projeto_final_bloco_01.git&quot;,
+    &quot;accountId&quot;: &quot;7516968c-6ca9-40d1-9205-85a50db96175&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2oqMFIR3IvcfJH3i0vScmXe4HbD" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -53,7 +46,7 @@
   "keyToString": {
     "Application.Menu.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Controller",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -80,7 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1731592550524</updated>
-      <workItem from="1731592551738" duration="18080000" />
+      <workItem from="1731592551738" duration="18537000" />
     </task>
     <servers />
   </component>

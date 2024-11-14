@@ -80,6 +80,7 @@ public class EstanteController implements EstanteRepository{
             Livro livro = (Livro) produto;
             if(!livro.getEmprestado()){
                 livro.setEmprestado(true);
+                System.out.println(produto.getTitulo() + " foi emprestado!");
             }else{
                 throw new Exception(livro.getTitulo() + " ja esta emprestado!");
             }
