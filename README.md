@@ -25,7 +25,7 @@ classDiagram
         +getters/setters()
     }
     
-    class Estante {
+    class EstanteController {
         int numeroDeProdutos
         HashMap~Produto, Integer~ produtos
         +listarEstante()
@@ -50,5 +50,5 @@ classDiagram
     
     Produto <|-- Livro
     Produto <|-- Mangas
-    Estante ..|> EstanteRepository
-    Estante --> Produto : contém
+    EstanteController ..|> EstanteRepository
+    EstanteController --> Produto : contém
