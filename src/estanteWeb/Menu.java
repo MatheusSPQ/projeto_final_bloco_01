@@ -12,7 +12,7 @@ public class Menu {
         boolean emprestavel,capaDura;
 
         while (true){
-            System.out.println("*****************************************************");
+            System.out.println("\n*****************************************************");
             System.out.println("                                                     ");
             System.out.println("                      ESTANTE WEB                    ");
             System.out.println("                                                     ");
@@ -25,8 +25,7 @@ public class Menu {
             System.out.println("            5 - Buscar Produto por Titulo            ");
             System.out.println("            6 - Atualizar Produto                    ");
             System.out.println("            7 - Apagar Produto                       ");
-            System.out.println("            8 - Retirar Produto                      ");
-            System.out.println("            9 - Emprestar Produto                    ");
+            System.out.println("            8 - Emprestar Produto                    ");
             System.out.println("            0 - Sair                                 ");
             System.out.println("                                                     ");
             System.out.println("                                                     ");
@@ -38,6 +37,30 @@ public class Menu {
             switch (opcao){
                 case 0 -> {
                     System.exit(0);
+                }
+                case 1 -> {
+                    System.out.println("\n Adicionar Produto!");
+                }
+                case 2 -> {
+                    System.out.println("\n Listar todas os Produtos");
+                }
+                case 3 -> {
+                    System.out.println("\n Listar todas os Produtos Emprestados ");
+                }
+                case 4 -> {
+                    System.out.println("\n Listar todas os Produtos Emprestaveis");
+                }
+                case 5 -> {
+                    System.out.println("\n Buscar Produto por Titulo");
+                }
+                case 6 -> {
+                    System.out.println("\n Atualizar Produto");
+                }
+                case 7 -> {
+                    System.out.println("\n Apagar Produto");
+                }
+                case 8 -> {
+                    System.out.println("\n Emprestar Produto");
                 }
 
             }
