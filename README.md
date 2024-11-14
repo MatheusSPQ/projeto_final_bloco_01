@@ -2,7 +2,7 @@
 classDiagram
     class Produto {
         <<abstract>>
-        double valor
+        float valor
         Date dataPublicacao
         String autor, titulo
         int numeroPaginas
