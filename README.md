@@ -50,5 +50,5 @@ classDiagram
     
     Produto <|-- Livro
     Produto <|-- Mangas
-    EstanteRepository <|.. EstanteRepository
+    EstanteRepository <|.. EstanteController
     
