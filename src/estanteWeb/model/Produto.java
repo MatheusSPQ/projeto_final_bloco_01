@@ -17,6 +17,13 @@ public abstract class Produto {
         this.tipo = tipo;
     }
 
+    public int getTipo() {
+        return tipo;
+    }
+    public void setTipo(int tipo) {
+        this.tipo = tipo;
+    }
+
     public float getValor() {
         return valor;
     }

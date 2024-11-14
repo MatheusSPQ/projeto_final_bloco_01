@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9ebb3c3d-bd7f-40cd-8d29-72d91712484e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/estanteWeb/model/Manga.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/estanteWeb/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estanteWeb/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/estanteWeb/controller/EstanteController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estanteWeb/controller/EstanteController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/estanteWeb/model/Livro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estanteWeb/model/Livro.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/estanteWeb/model/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estanteWeb/model/Produto.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/estanteWeb/repository/EstanteRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estanteWeb/repository/EstanteRepository.java" afterDir="false" />
@@ -53,7 +53,7 @@
   "keyToString": {
     "Application.Menu.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Model__Repository",
+    "git-widget-placeholder": "Controller",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -80,7 +80,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1731592550524</updated>
-      <workItem from="1731592551738" duration="9483000" />
+      <workItem from="1731592551738" duration="18080000" />
     </task>
     <servers />
   </component>
