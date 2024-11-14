@@ -1,4 +1,3 @@
-```mermaid
 classDiagram
     class Produto {
         <<abstract>>
@@ -50,5 +49,5 @@ classDiagram
     
     Produto <|-- Livro
     Produto <|-- Mangas
-    Estante --|> EstanteRepository
+    Estante ..|> EstanteRepository
     Estante --> Produto : contém
