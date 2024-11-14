@@ -4,7 +4,7 @@ classDiagram
         <<abstract>>
         double valor
         Date dataPublicacao
-        String autor
+        String autor, titulo
         int numeroPaginas
         String genero
         +getters/setters()
